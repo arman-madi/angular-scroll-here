@@ -4,7 +4,7 @@ Is an angular library which help you conveniently to scroll a parent container b
 
 Automatically will find a scrollable parent
 ```
-<div [ngStyle]="{'height': '10px', 'overflow': 'auto'}">
+<div [ngStyle]="{'height': '60px', 'overflow': 'auto'}">
 <div>
   <div>blah blah blah</div> 
   <div>blah blah blah</div>
