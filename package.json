@@ -1,8 +1,26 @@
 {
-  "name": "scroll-here",
+  "name": "@arman.madi/scroll-here",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
-  }
+  },
+  "description": "An angular library help auto scrolling containers",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arman-madi/angular-scroll-here.git"
+  },
+  "keywords": [
+    "angular",
+    "auto",
+    "scroll"
+  ],
+  "author": "Arman Madi",
+  "license": "GPL-3.0"
 }

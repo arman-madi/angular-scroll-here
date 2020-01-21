@@ -1,0 +1,36 @@
+{
+  "name": "@arman.madi/scroll-here",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "description": "An angular library help auto scrolling containers",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arman-madi/angular-scroll-here.git"
+  },
+  "keywords": [
+    "angular",
+    "auto",
+    "scroll"
+  ],
+  "author": "Arman Madi",
+  "license": "GPL-3.0",
+  "main": "bundles/arman.madi-scroll-here.umd.js",
+  "module": "fesm5/arman.madi-scroll-here.js",
+  "es2015": "fesm2015/arman.madi-scroll-here.js",
+  "esm5": "esm5/arman.madi-scroll-here.js",
+  "esm2015": "esm2015/arman.madi-scroll-here.js",
+  "fesm5": "fesm5/arman.madi-scroll-here.js",
+  "fesm2015": "fesm2015/arman.madi-scroll-here.js",
+  "typings": "arman.madi-scroll-here.d.ts",
+  "metadata": "arman.madi-scroll-here.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
